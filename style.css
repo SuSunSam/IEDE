@@ -2195,6 +2195,111 @@ ul.black-doted {
     margin-bottom: 0;
     color: #757686;
 }
+/*--------------------------------------------------------------
+# Courseware Page
+--------------------------------------------------------------*/
+.courseware-page .page-header {
+    background: url("images/courses-header.jpg") no-repeat center;
+}
+
+.courseware-posts {
+    margin-top: 50px;
+}
+
+.courseware-post-content {
+    margin-bottom: 30px;
+}
+
+.courseware-page .entry-title{
+    width: 100%;
+    font-size: 15px;
+}
+
+.courseware-page a{
+    width: 100%;
+}
+.courseware-page .courseware-courses{
+    padding: 30px 0;
+}
+
+.courseware-page .courseware-courses .entry-title{
+    padding: 20px 0;
+
+}
+
+.courseware-post-content .courseware-post-thumbnail img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.courseware-post-content .posted-date {
+    bottom: 0;
+    left: 0;
+    padding: 8px 16px;
+    background: #f3a90b;
+    color: #fff;
+    line-height: 1;
+    text-align: center;
+}
+
+.courseware-post-content .posted-date .day {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.courseware-post-content .posted-date .month {
+    margin-top: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.courseware-post-content-wrap .entry-title {
+    margin: 24px 0 0;
+    font-size: 24px;
+    line-height: 1.4;
+    font-weight: 400;
+}
+
+.courseware-post-content-wrap .post-author {
+    margin-top: 12px;
+}
+
+.courseware-post-content-wrap .post-author a {
+    font-style: italic;
+    color: #19c880;
+    text-decoration: none;
+}
+
+.courseware-post-content-wrap .post-comments {
+    position: relative;
+    padding-left: 12px;
+    margin-top: 12px;
+    margin-left: 5px;
+}
+
+.courseware-post-content-wrap .post-comments a {
+    text-decoration: none;
+    color: #757686;
+}
+
+.courseware-post-content-wrap .post-comments::before {
+    content: '/';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    text-align: center;
+}
+
+.courseware-post-content-wrap .entry-content {
+    margin-top: 12px;
+    margin-bottom: 0;
+    color: #757686;
+}
 
 /*--------------------------------------------------------------
 # Single gallery Post
