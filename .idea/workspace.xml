@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7bd03928-e194-408e-939d-dc9771b8c588" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda.html" beforeDir="false" afterPath="$PROJECT_DIR$/agenda.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseware.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseware.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instructor.html" beforeDir="false" afterPath="$PROJECT_DIR$/instructor.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,26 +39,26 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="78" />
-          <entry key="html" value="186" />
-          <entry key="txt" value="2" />
+          <entry key="html" value="199" />
+          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="78" />
-          <entry key="HTML" value="186" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="HTML" value="199" />
+          <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/instructor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="412" column="30" selection-start-line="412" selection-start-column="30" selection-end-line="412" selection-end-column="30" />
+            <state relative-caret-position="295">
+              <caret line="56" column="79" selection-start-line="56" selection-start-column="79" selection-end-line="56" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -76,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/agenda.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="305">
@@ -93,11 +92,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="87" />
+            <state relative-caret-position="175">
+              <caret line="259" column="68" selection-start-line="259" selection-start-column="68" selection-end-line="259" selection-end-column="68" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,13 +138,15 @@
       <find>2018</find>
       <find>foot</find>
       <find>addres</find>
-      <find>home</find>
       <find>course-content</find>
       <find>AI</find>
       <find>rese</find>
       <find>gallery-page</find>
-      <find>address</find>
       <find>gallery</find>
+      <find>address</find>
+      <find>Course Agenda</find>
+      <find>instru</find>
+      <find>home</find>
     </findStrings>
     <replaceStrings>
       <replace>courseware</replace>
@@ -158,12 +158,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/instructor.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/courseware.html" />
         <option value="$PROJECT_DIR$/agenda.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/instructor.html" />
       </list>
     </option>
   </component>
@@ -224,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537178418466</updated>
-      <workItem from="1537178420180" duration="8535000" />
+      <workItem from="1537178420180" duration="8778000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1537194792761</created>
@@ -247,11 +247,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537197685789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="...">
+      <created>1537198818252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537198818252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="agenda-view-more">
+      <created>1537198920265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537198920265</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8535000" />
+    <option name="totallyTimeSpent" value="8778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -285,16 +299,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="..." />
+    <MESSAGE value="agenda-view-more" />
+    <option name="LAST_COMMIT_MESSAGE" value="agenda-view-more" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/instructor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="412" column="30" selection-start-line="412" selection-start-column="30" selection-end-line="412" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -320,17 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="87" />
-          <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -348,6 +346,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="59" column="63" selection-start-line="59" selection-start-column="63" selection-end-line="59" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="259" column="68" selection-start-line="259" selection-start-column="68" selection-end-line="259" selection-end-column="68" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="56" column="79" selection-start-line="56" selection-start-column="79" selection-end-line="56" selection-end-column="79" />
         </state>
       </provider>
     </entry>
