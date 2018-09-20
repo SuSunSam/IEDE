@@ -595,6 +595,9 @@ a:hover, a:active {
 
 .course-content .entry-title a {
     color: #383749;
+    overflow: hidden;
+    word-wrap: break-word;
+    word-break: break-all;
 }
 
 .course-content .entry-meta {
@@ -2215,9 +2218,7 @@ ul.black-doted {
     font-size: 15px;
 }
 
-.courseware-page a{
-    width: 100%;
-}
+
 .courseware-page .courseware-courses{
     padding: 30px 0;
 }
