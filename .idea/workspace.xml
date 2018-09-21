@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bd03928-e194-408e-939d-dc9771b8c588" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/coursewares/20180301_Manaloto.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/20180301_Tony.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/20180301_Yan.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/AI Research.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/Blockchain Explained_en.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/Innovating Digital.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/groupwork/Car4ALL.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/groupwork/Cloud Based MTHM.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/groupwork/DECENTRALIZING DIGITAL ECONOMY.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/groupwork/Deeds&amp;Needs (Digital Economy course).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/groupwork/Distance Education.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/groupwork/IEDE Emotional Intelligence.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/groupwork/PPT_AI_final.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursewares/groupwork/Smart City.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseware.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseware.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,14 +52,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="145" />
-          <entry key="html" value="298" />
+          <entry key="html" value="321" />
           <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="145" />
-          <entry key="HTML" value="298" />
+          <entry key="HTML" value="321" />
           <entry key="PLAIN_TEXT" value="58" />
         </counts>
       </usages-collector>
@@ -70,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/courseware.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="117" column="45" lean-forward="true" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+            <state relative-caret-position="15">
+              <caret line="233" lean-forward="true" selection-start-line="233" selection-end-line="233" />
               <folding>
                 <element signature="e#1735#1741#0" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -128,7 +141,7 @@
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -252,7 +265,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537178418466</updated>
-      <workItem from="1537178420180" duration="14314000" />
+      <workItem from="1537178420180" duration="16114000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1537194792761</created>
@@ -338,15 +351,28 @@
       <option name="project" value="LOCAL" />
       <updated>1537446808001</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="courseware">
+      <created>1537447059571</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537447059571</updated>
+    </task>
+    <task id="LOCAL-00014" summary="courseware">
+      <created>1537509957760</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537509957760</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14314000" />
+    <option name="totallyTimeSpent" value="16114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -449,14 +475,14 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/courseware.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="117" column="45" lean-forward="true" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+        <state relative-caret-position="15">
+          <caret line="233" lean-forward="true" selection-start-line="233" selection-end-line="233" />
           <folding>
             <element signature="e#1735#1741#0" expanded="true" />
             <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
