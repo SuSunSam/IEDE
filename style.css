@@ -281,7 +281,11 @@ a:hover, a:active {
     background: rgba(0,0,0,.9);
     transition: all 0.35s;
 }
-
+.header-p{
+    padding-left: 15px;
+    font-size: 14px;
+    color: white;
+}
 .site-navigation.show ul {
     left: 0;
 }
@@ -356,8 +360,8 @@ a:hover, a:active {
 
 .hero-content-wrap h1 {
     margin-top: 12px;
-    font-size: 60px;
-    font-weight: 500;
+    font-size: 50px;
+    font-weight: 420;
     text-transform: uppercase;
     color: #fff;
 }
@@ -370,6 +374,8 @@ a:hover, a:active {
 
 .hero-content-wrap p {
     margin-top: 8px;
+    font-size: 22px;
+    font-weight: bold;
     color: #fff;
 }
 
@@ -1999,24 +2005,26 @@ ul.black-doted {
     color: #757686;
 }
 
-.about-stories,
-.about-values {
+.our-course,
+.course-objectives {
     color: #757686;
 }
 
-.about-stories h3,
-.about-values h3 {
+.our-course h3,
+.course-objectives h3 {
     margin-top: 48px;
     font-size: 24px;
     font-weight: 400;
     color: #383749;
 }
 
-.about-stories p,
-.about-values p {
+.our-course p,
+.course-objectives p {
     line-height: 1.6;
 }
-
+.more-information{
+    margin: 10px 0;
+}
 .instructor-page .about-section {
     margin-top: 100px;
 }
