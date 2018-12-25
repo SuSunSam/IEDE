@@ -283,7 +283,8 @@ a:hover, a:active {
 }
 .header-p{
     padding-left: 15px;
-    font-size: 14px;
+    font-weight: bold;
+    font-size: 20px;
     color: white;
 }
 .site-navigation.show ul {
@@ -373,10 +374,11 @@ a:hover, a:active {
 }
 
 .hero-content-wrap p {
-    margin-top: 8px;
-    font-size: 22px;
-    font-weight: bold;
+    margin-top: 12px;
+    font-size: 40px;
+    font-weight: 500;
     color: #fff;
+    line-height: 50px;
 }
 
 .hero-content-wrap .read-more {
@@ -2071,6 +2073,10 @@ ul.black-doted {
 	font-size: 10px;
     font-weight: 400;
     color: gray;
+    word-wrap: break-word;
+    word-break: break-all;
+    max-height: 28px;
+    overflow: scroll;
 }
 
 .speaker-member ul {
