@@ -491,9 +491,7 @@ a:hover, a:active {
     left: 100%;
 }
 
-/*course-agenda
-
- */
+/*course-agenda*/
 .agenda-page .course-agenda p{
     font-size: 25px;
     color: #007bff;
@@ -510,6 +508,9 @@ a:hover, a:active {
 
 .agenda-page .course-agenda ul{
     padding: 0px 50px;
+}
+.course-agenda img{
+    width: 100%;
 }
 /*
 # Courses
@@ -779,8 +780,8 @@ a.btn:hover {
 	margin: 0;
 }
 .course-instructor .invited-speakers ul li{
-	width: 16%;
-    height: auto;
+	width: 83px;
+    height: 83px;
     border-radius: 50%;
     overflow: hidden;
     float:left;
@@ -2830,6 +2831,10 @@ ul.author-social-profile li:hover .fa {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+.footer-widgets .QRcode img{
+    width: 100px;
+    height: auto;
+}
 .footer-widgets {
     padding: 30px 0;
     margin: 20px 0;
