@@ -701,6 +701,9 @@ a.btn:hover {
 /*
 # course-instructor: Horizontal Column
 --------------------------------*/
+.course-instructor{
+    padding: 40px 0;
+}
 .course-instructor.horizontal-column,
 .course-instructor.vertical-column {
     padding: 80px 0;
@@ -780,7 +783,7 @@ a.btn:hover {
 	margin: 0;
 }
 .course-instructor .invited-speakers ul li{
-	width: 83px;
+	width: 75px;
     height: 83px;
     border-radius: 50%;
     overflow: hidden;
@@ -992,9 +995,14 @@ a.btn:hover {
     background: #19c880;
     border: transparent;
 }
-
 /*
-# Latest News & Events
+# registration-page
+--------------------------------*/
+.registration-page .course-agenda .container h2 {
+    font-size: 20px;
+}
+/*
+# course-agenda
 --------------------------------*/
 .course-agenda {
     padding: 60px 0;
@@ -1165,6 +1173,23 @@ a.btn:hover {
     }
 
 }
+
+/*
+# course-video
+-------------------------------*/
+.course-video {
+    padding: 60px 0;
+}
+
+.course-video .heading{
+    margin: 0 0 40px;
+}
+.course-video .heading .entry-title {
+    font-size: 42px;
+    font-weight: 400;
+}
+
+
 
 /*
 # Gallery
@@ -1543,7 +1568,7 @@ a.btn:hover {
 /*--------------------------------------------------------------
 # Single Courses Page
 --------------------------------------------------------------*/
-.single-agenda-page .page-header {
+.single-agenda-page .page-header, .registration-page .page-header{
     background: url("images/single-courses-bg.jpg") no-repeat center;
 }
 
